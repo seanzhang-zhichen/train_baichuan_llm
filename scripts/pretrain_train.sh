@@ -1,5 +1,5 @@
 deepspeed --num_gpus=7 ../pt/pretrain.py \
-    --model_name_or_path /llm_models/Baichuan2-13B-Base \
+    --model_name_or_path /home/zhangzc/workplace/hs_nlp/src/data/models/llm_models/Baichuan2-13B-Base/ \
     --train_file_dir ../data/pt \
     --validation_file_dir ../data/pt \
     --per_device_train_batch_size 1 \
