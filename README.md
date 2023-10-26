@@ -19,6 +19,8 @@ sh sft_train.sh
 
 
 ## 相关博客
+
 [deepspeed多机多卡并行训练指南](https://blog.csdn.net/qq_44193969/article/details/132612837)
+
 [增量预训练baichuan-13b-chat遇到的那些坑](https://blog.csdn.net/qq_44193969/article/details/132003852)
 
